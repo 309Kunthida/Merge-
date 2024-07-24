@@ -37,4 +37,5 @@
 defineOptions({
   name: 'IndexPage'
 });
+
 </script>
